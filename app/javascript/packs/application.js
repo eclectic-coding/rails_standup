@@ -19,3 +19,5 @@ require('bootstrap');
 require('admin-lte')
 
 import "../stylesheets/application.scss"
+require("css/application.scss")
+import "@fortawesome/fontawesome-free/js/all"
