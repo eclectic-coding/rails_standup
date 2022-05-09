@@ -960,10 +960,10 @@
   dependencies:
     spark-md5 "^3.0.0"
 
-"@rails/ujs@^6.1.5":
-  version "6.1.5"
-  resolved "https://registry.npmjs.org/@rails/ujs/-/ujs-6.1.5.tgz"
-  integrity sha512-Ir4yd2fdDldWIghavPr874copVKf6OOoecKHZiFRlPtm38tFvhyxr+ywzNieXGwolF9JQe3D5GrM8ejkzUgh5Q==
+"@rails/ujs@^6.1.6":
+  version "6.1.6"
+  resolved "https://registry.npmjs.org/@rails/ujs/-/ujs-6.1.6.tgz"
+  integrity sha512-2M4zlthYmOC6X/tcPcFd//sIL26a7JbCpGNl8uIrQf+pR1Z47uhYt9cOwVqJTJZPurdy2k+YY3Pn64pqruAPEA==
 
 "@rails/webpacker@5.4.3":
   version "5.4.3"
