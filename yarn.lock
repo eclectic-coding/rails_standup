@@ -1775,12 +1775,12 @@ bootstrap4-duallistbox@^4.0.2:
   resolved "https://registry.npmjs.org/bootstrap4-duallistbox/-/bootstrap4-duallistbox-4.0.2.tgz"
   integrity sha512-vQdANVE2NN0HMaZO9qWJy0C7u04uTpAmtUGO3KLq3xAZKCboJweQ437hDTszI6pbYV2olJCGZMbdhvIkBNGeGQ==
 
-bootstrap@>=4.0:
-  version "5.0.2"
-  resolved "https://registry.npmjs.org/bootstrap/-/bootstrap-5.0.2.tgz"
-  integrity sha512-1Ge963tyEQWJJ+8qtXFU6wgmAVj9gweEjibUdbmcCEYsn38tVwRk8107rk2vzt6cfQcRr3SlZ8aQBqaD8aqf+Q==
+bootstrap@>=4.0, bootstrap@^5.2.0:
+  version "5.2.0"
+  resolved "https://registry.npmjs.org/bootstrap/-/bootstrap-5.2.0.tgz"
+  integrity sha512-qlnS9GL6YZE6Wnef46GxGv1UpGGzAwO0aPL1yOjzDIJpeApeMvqV24iL+pjr2kU4dduoBA9fINKWKgMToobx9A==
 
-bootstrap@^4.5.2, bootstrap@^4.6.1, bootstrap@^4.6.2:
+bootstrap@^4.5.2, bootstrap@^4.6.1:
   version "4.6.2"
   resolved "https://registry.npmjs.org/bootstrap/-/bootstrap-4.6.2.tgz"
   integrity sha512-51Bbp/Uxr9aTuy6ca/8FbFloBUJZLHwnhTcnjIeRn2suQWsWzcuJhGjKDB5eppVte/8oCdOL3VuwxvZDUggwGQ==
